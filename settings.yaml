@@ -1,0 +1,10 @@
+source:
+  dir: "src/"
+  files:
+    - "dreamteam.md"
+target:
+  dir: "target/"
+defines:
+  github: "https://github.com/"
+  repo: "gitportal"
+  user: "vladimercury"
